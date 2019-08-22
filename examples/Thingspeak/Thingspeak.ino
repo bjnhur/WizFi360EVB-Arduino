@@ -26,9 +26,9 @@ char server[] = "api.thingspeak.com"; //server address
 String apiKey ="";                    //apki key
 
 //senser buffer
-char temp_buf[5];
-char humi_buf[5];
-char cds_buf[5];
+char temp_buf[10];
+char humi_buf[10];
+char cds_buf[10];
 
 unsigned long lastConnectionTime = 0;         // last time you connected to the server, in milliseconds
 const unsigned long postingInterval = 30000; // delay between updates, in milliseconds
