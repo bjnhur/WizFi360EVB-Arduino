@@ -1,6 +1,7 @@
-## This repository is no more update after 22 Aug.
-## Please check to this [wizfi/WizFi360EVB-Arduino](https://github.com/wizfi/WizFi360EVB-Arduino) new repository.
+# This repository is no more update since 22 Aug, 2019.
+Please visit to [wizfi/WizFi360EVB-Arduino](https://github.com/wizfi/WizFi360EVB-Arduino) new repository.
 
+-----
 # WiFiEsp
 
 With an ESP8266 board, WiFiEsp library allows an Arduino board to connect to the internet.
